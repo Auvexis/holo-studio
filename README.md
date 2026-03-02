@@ -192,12 +192,3 @@ Then open:
 ```
 http://localhost:23806
 ```
-
----
-
-<div align="center">
-
-✨ **Holo Studio** — Database management, the Docker way.
-
-</div>
-
