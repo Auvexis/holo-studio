@@ -11,7 +11,7 @@ If Docker runs on your machine, Holo Studio runs too, Windows, macOS, or Linux,<
 
 **Zero downloads • Zero installation • 100% Docker**
 
-[🌐 Website](https://holostudio.vercel.app) • [🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
+[🌐 Website](https://holo.auvexis.com) • [🐳 Docker Page](https://hub.docker.com/r/holostudio/studio)
 <br>
 [🚀 Quick Start](#-quick-start) • [✨ Features](#-features) • [🐳 Why Docker](#-why-docker) • [🧰 Usage](#-how-to-use)
 
